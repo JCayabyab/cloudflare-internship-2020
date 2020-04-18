@@ -1,0 +1,8 @@
+name = "internship-application"
+type = "webpack"
+account_id = "44b77864fd264a9a8318d4d4dbec3d92"
+workers_dev = true
+
+[env.production]
+route = ""
+zone_id = ""
